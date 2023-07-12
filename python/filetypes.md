@@ -60,4 +60,4 @@
 
 ## ref
 
-- Fully supported formats from https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html
+- Ignore read only formats of pillow, Fully supported formats from https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html
