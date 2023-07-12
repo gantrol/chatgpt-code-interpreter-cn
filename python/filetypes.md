@@ -1,0 +1,63 @@
+从依赖包分析，应该可处理
+
+- .avi
+- .bat
+- .blp
+- .bmp
+- .bz2
+- .csv
+- .db
+- .dds
+- .dib
+- .docx
+- .eps
+- .epub
+- .flv
+- .gif
+- .gz
+- .html
+- .icns
+- .ico
+- .im
+- .ini
+- .jpeg
+- .jpg
+- .json
+- .log
+- .md
+- .mov
+- .mobi
+- .mp3
+- .mp4
+- .msp
+- .ogg
+- .pcx
+- .pdf
+- .png
+- .ppm
+- .ppt (PowerPoint)
+- .pptx (PowerPoint)
+- .py
+- .rtf
+- .sh
+- .sqlite
+- .svg
+- .tar
+- .tga
+- .tiff
+- .txt
+- .wav
+- .webp
+- .wmv
+- .xls (Excel)
+- .xlsm (Excel)
+- .xlsx (Excel)
+- .xbm
+- .xml
+- .xz
+- .yml (YAML)
+- .zip
+
+## ref
+
+- Fully supported formats from https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html
