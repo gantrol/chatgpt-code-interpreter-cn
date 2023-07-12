@@ -1,2 +1,6 @@
 .idea/
 *.xlsx
+*.html
+/python/packages_version.json
+/python/packages.json
+/python/requirements-short.txt
